@@ -1,64 +1,9 @@
 {
-  "items": [
-    {
-      "description": "https://github.com/eksime/VDesk Check system file: https://winbindex.m417z.com NT/SYSTEM console: https://github.com/gerardog/gsudo AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLGGH4NNS1 Microsoft Emoji: https://github.com/microsoft/fluentui-emoji https://github.com/farag2/Utilities\nHACK: Password Brute Force",
-      "items": [],
-      "title": "Important"
-    },
-    {
-      "description": "Defender Control https://github.com/swagkarna/Defeat-Defender-V1.2 https://github.com/AndyFul/ConfigureDefender https://github.com/simeononsecurity/Windows-Defender-Hardening https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardening",
-      "items": [],
-      "title": "Windows Defender"
-    },
-    {
-      "description": "https://github.com/DavidXanatos/wumgr Disabling all windows update services: https://github.com/WereDev/Wu10Man",
-      "items": [],
-      "title": "Windows Update"
-    },
-    {
-      "description": "https://github.com/Digressive/Remove-MS-Store-Apps",
-      "items": [],
-      "title": "Microsoft Store Apps"
-    },
-    {
-      "description": "Custom Context Menu: https://github.com/ikas-mc/ContextMenuForWindows11 Windows Fixer: https://github.com/99natmar99/Windows-11-Fixer Explorer Patcher (Old TaskBar): https://github.com/valinet/ExplorerPatcher https://github.com/undergroundwires/privacy.sexy https://github.com/mikeroyal/Windows-11-Guide https://github.com/xanderfrangos/twinkle-tray https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/ Manager context menu: https://nilesoft.org https://github.com/builtbybel/ThisIsWin11 ☠ OUTDATED! https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix ☠ OUTDATED! https://github.com/hahagu/WindowsThumbnailGenerator ☠ OUTDATED! Old Start Menu: https://github.com/bbmaster123/10SM 🗄️ ARCHIVED! https://github.com/Sycnex/Windows10Debloater https://github.com/Fs00/Win10BloatRemover https://github.com/equk/windows https://github.com/r33int/Windows10-Postinstall https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat https://github.com/simeononsecurity/Windows-Optimize-Debloat https://github.com/ChrisTitusTech/winutil https://github.com/farag2/Sophia-Script-for-Windows",
-      "items": [],
-      "title": "🛠 Tweaks (Win11)"
-    },
-    {
-      "description": "Windows 11 обои скачать\nСтандартно обои хранятся по пути:\n\n\nForce File Explorer to open to This PC instead of Quick Access\nEdit Taskbar:\nStartMenu Global:\nStartMenu Local:\nDownload: https://github.com/awesome-windows11/windows11/blob/main/archive/InputSwitch.zip\nПак всех иконок из Windows 11 shell32.dll - оригинальный файл из папки System32 в Windows 11\n",
-      "items": [],
-      "title": "Personalization"
-    },
-    {
-      "description": "WindowsStore\nOR\nAppInstaller (winget)\nWindowsTerminal\nNotepad\nGadgets\nWindowsPhone\nAppInstaller (winget)\nWindowsTerminal\nNotepad\nGadgets\n\nhttps://github.com/awesome-windows11/windows11/blob/main/archive/remove_edge.bat\n\nThe code is in the process of being written\nSource: https://kolbi.cz/blog/2019/01/27/register-a-portable-browser-and-make-it-the-default/\n",
-      "items": [],
-      "title": "🛠 Apps"
-    },
-    {
-      "description": "Source: https://admx.help/HKLM/Software/Policies\nOptional settings:",
-      "items": [],
-      "title": "📜 Policies"
-    },
-    {
-      "description": "New Explorer (Win11)\nOld Explorer (Win10)\n\nNew Menu (Win11)\nOld menu (Win10)\n\nSmall TaskBar\nMedium TaskBar",
-      "items": [],
-      "title": "Win11"
-    },
-    {
-      "description": "Change the location of the taskbar\nUp TaskBar ⬆\nDown TaskBar ⬇\nLeft TaskBar ⬅\nRight TaskBar ➡",
-      "items": [],
-      "title": "Big TaskBar"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Stats"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T13:04:47.481Z",
+    "last_updated": "2026-08-19T12:57:56.912Z",
     "original_repository": "awesome-windows11/windows11",
+    "original_repository_id": 378635800,
     "original_repository_sha": "e64887ab15e0390a6d6625d3afb69b258402a882",
     "enhanced_repository": "enhansome/enhansome-windows11",
     "enhanced_repository_description": null,
