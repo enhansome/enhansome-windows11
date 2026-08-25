@@ -42,11 +42,11 @@ Disabling all windows update services: <https://github.com/WereDev/Wu10Man> ⚠�
 ### <h3 align="center">🛠 Tweaks (Win11)</h3>
 
 Custom Context Menu: <https://github.com/ikas-mc/ContextMenuForWindows11> ⭐ 2,868 | 🐛 20 | 🌐 C# | 📅 2026-07-25 <br>
-Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer> ⭐ 1,270 | 🐛 11 | 🌐 C# | 📅 2023-06-27 <br>
-Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 33,706 | 🐛 367 | 🌐 C | 📅 2026-07-06 <br>
+Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer> ⭐ 1,271 | 🐛 11 | 🌐 C# | 📅 2023-06-27 <br>
+Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 33,709 | 🐛 367 | 🌐 C | 📅 2026-07-06 <br>
 <https://github.com/undergroundwires/privacy.sexy> ⭐ 5,981 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13 <br>
 <https://github.com/mikeroyal/Windows-11-Guide> ⭐ 1,781 | 🐛 12 | 🌐 C# | 📅 2025-06-27 <br>
-<https://github.com/xanderfrangos/twinkle-tray> ⭐ 8,927 | 🐛 602 | 🌐 JavaScript | 📅 2026-08-19 <br>
+<https://github.com/xanderfrangos/twinkle-tray> ⭐ 8,926 | 🐛 602 | 🌐 JavaScript | 📅 2026-08-19 <br>
 <https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/> <br>
 Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/builtbybel/ThisIsWin11> ⚠️ Archived <br>
@@ -59,8 +59,8 @@ Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/r33int/Windows10-Postinstall> ⭐ 206 | 🐛 0 | 🌐 PowerShell | 📅 2026-05-13 <br>
 <https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat> ⭐ 1,386 | 🐛 0 | 🌐 PowerShell | 📅 2025-04-25 <br>
 <https://github.com/simeononsecurity/Windows-Optimize-Debloat> ⭐ 298 | 🐛 0 | 🌐 PowerShell | 📅 2024-12-21 <br>
-<https://github.com/ChrisTitusTech/winutil> ⭐ 61,174 | 🐛 28 | 🌐 PowerShell | 📅 2026-08-24 <br>
-<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,669 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23
+<https://github.com/ChrisTitusTech/winutil> ⭐ 61,186 | 🐛 30 | 🌐 PowerShell | 📅 2026-08-24 <br>
+<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,670 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23
 
 ### <h2 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h2>
 
