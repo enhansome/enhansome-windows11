@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/eksime/VDesk",
+          "title": "eksime/VDesk",
           "description": "Check system file: https://winbindex.m417z.com NT/SYSTEM console: https://github.com/gerardog/gsudo AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLGGH4NNS1 Microsoft Emoji: https://github.com/microsoft/fluentui-emoji https://github.com/farag2/Utilities",
           "children": [],
           "repo_info": {
@@ -41,7 +41,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/DavidXanatos/wumgr",
+          "title": "DavidXanatos/wumgr",
           "description": "Disabling all windows update services: https://github.com/WereDev/Wu10Man",
           "children": [],
           "repo_info": {
@@ -62,7 +62,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Digressive/Remove-MS-Store-Apps",
+          "title": "Digressive/Remove-MS-Store-Apps",
           "description": null,
           "children": [],
           "repo_info": {
@@ -104,7 +104,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/awesome-windows11/windows11/blob/main/archive/remove_edge.bat",
+          "title": "awesome-windows11/windows11",
           "description": null,
           "children": [],
           "repo_info": {
@@ -122,7 +122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:35.846Z",
+    "last_updated": "2026-08-25T05:51:02.529Z",
     "original_repository": "awesome-windows11/windows11",
     "original_repository_id": 378635800,
     "original_repository_sha": "e64887ab15e0390a6d6625d3afb69b258402a882",
