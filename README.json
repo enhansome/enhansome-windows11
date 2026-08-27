@@ -15,7 +15,7 @@
             "last_commit": "2023-11-17T10:22:55Z",
             "owner": "eksime",
             "repo": "VDesk",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2021-05-30T06:03:17Z",
             "owner": "DavidXanatos",
             "repo": "wumgr",
-            "stars": 1609
+            "stars": 1610
           }
         }
       ],
@@ -90,10 +90,10 @@
             "archived": false,
             "id": 378635800,
             "language": "Batchfile",
-            "last_commit": "2025-09-25T19:09:27Z",
+            "last_commit": "2026-08-26T18:37:25Z",
             "owner": "awesome-windows11",
             "repo": "windows11",
-            "stars": 3535
+            "stars": 3538
           }
         }
       ],
@@ -111,10 +111,10 @@
             "archived": false,
             "id": 378635800,
             "language": "Batchfile",
-            "last_commit": "2025-09-25T19:09:27Z",
+            "last_commit": "2026-08-26T18:37:25Z",
             "owner": "awesome-windows11",
             "repo": "windows11",
-            "stars": 3535
+            "stars": 3538
           }
         }
       ],
@@ -122,10 +122,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:12:37.947Z",
-    "original_repository": "awesome-windows11/windows11",
-    "original_repository_id": 378635800,
-    "original_repository_sha": "e64887ab15e0390a6d6625d3afb69b258402a882",
+    "last_updated": "2026-08-27T12:10:42.795Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 378635800,
+      "language": "Batchfile",
+      "last_commit": "2026-08-26T18:37:25Z",
+      "owner": "awesome-windows11",
+      "repo": "windows11",
+      "stars": 3538
+    },
+    "original_repository_sha": "28aa8eee9f7ff8ef6c9f67b32046ac3411bbc137",
     "enhanced_repository": "enhansome/enhansome-windows11",
     "enhanced_repository_description": null,
     "title": "Awesome windows11 with stars"
