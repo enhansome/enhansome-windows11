@@ -16,7 +16,8 @@
             "owner": "eksime",
             "repo": "VDesk",
             "stars": 675
-          }
+          },
+          "first_seen": "2026-08-28T22:14:37.624Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "InfosecMatter",
             "repo": "Minimalistic-offensive-security-tools",
             "stars": 599
-          }
+          },
+          "first_seen": "2026-08-28T22:14:37.624Z"
         }
       ],
       "title": "Important"
@@ -51,8 +53,9 @@
             "last_commit": "2021-05-30T06:03:17Z",
             "owner": "DavidXanatos",
             "repo": "wumgr",
-            "stars": 1610
-          }
+            "stars": 1611
+          },
+          "first_seen": "2026-08-28T22:14:37.624Z"
         }
       ],
       "title": "Windows Update"
@@ -73,7 +76,8 @@
             "owner": "Digressive",
             "repo": "Remove-MS-Store-Apps",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T22:14:37.624Z"
         }
       ],
       "title": "Microsoft Store Apps"
@@ -93,8 +97,9 @@
             "last_commit": "2026-08-26T18:37:25Z",
             "owner": "awesome-windows11",
             "repo": "windows11",
-            "stars": 3536
-          }
+            "stars": 3537
+          },
+          "first_seen": "2026-08-28T22:14:37.624Z"
         }
       ],
       "title": "⏸ Disable / enable Input Switch"
@@ -114,15 +119,16 @@
             "last_commit": "2026-08-26T18:37:25Z",
             "owner": "awesome-windows11",
             "repo": "windows11",
-            "stars": 3536
-          }
+            "stars": 3537
+          },
+          "first_seen": "2026-08-28T22:14:37.624Z"
         }
       ],
       "title": "Remove / Disable Microsoft Edge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:13:04.662Z",
+    "last_updated": "2026-08-28T22:14:37.624Z",
     "original_repository_info": {
       "archived": false,
       "id": 378635800,
@@ -130,7 +136,7 @@
       "last_commit": "2026-08-26T18:37:25Z",
       "owner": "awesome-windows11",
       "repo": "windows11",
-      "stars": 3536
+      "stars": 3537
     },
     "original_repository_sha": "28aa8eee9f7ff8ef6c9f67b32046ac3411bbc137",
     "enhanced_repository": "enhansome/enhansome-windows11",
