@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Launch programs on new virtual desktops.",
+            "homepage": null,
             "id": 50099305,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2023-11-17T10:22:55Z",
+            "open_issues": 51,
             "owner": "eksime",
             "repo": "VDesk",
-            "stars": 675
+            "stars": 675,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
         },
@@ -26,12 +31,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of tools for pentesting of restricted and isolated environments.",
+            "homepage": null,
             "id": 262841920,
             "language": "PowerShell",
+            "license": "GPL-3.0",
             "last_commit": "2021-10-26T11:04:46Z",
+            "open_issues": 0,
             "owner": "InfosecMatter",
             "repo": "Minimalistic-offensive-security-tools",
-            "stars": 599
+            "stars": 599,
+            "topics": [
+              "active-directory",
+              "brute-force",
+              "login-automation",
+              "login-brute-force-attacks",
+              "penetration-testing",
+              "penetration-testing-tools",
+              "port-scanner",
+              "port-scanning",
+              "portscan",
+              "portscanner",
+              "powershell",
+              "restricted-environments",
+              "security-audit",
+              "security-automation",
+              "smb",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
         }
@@ -48,12 +75,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows update managemetn tool for windows 10",
+            "homepage": "https://xanasoft.com/",
             "id": 144460860,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-30T06:03:17Z",
+            "open_issues": 82,
             "owner": "DavidXanatos",
             "repo": "wumgr",
-            "stars": 1611
+            "stars": 1611,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
         }
@@ -70,12 +102,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customisable Windows 10/11 Microsoft Store App removal utility, previously known as Remove-Win10-Apps.",
+            "homepage": "https://gal.vin/posts/remove-uwp-apps/",
             "id": 202866018,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2024-11-12T08:18:40Z",
+            "open_issues": 0,
             "owner": "Digressive",
             "repo": "Remove-MS-Store-Apps",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "cleanup",
+              "microsoft",
+              "microsoft-store",
+              "powershell",
+              "remove",
+              "remove-ms-store-apps-utility",
+              "uwp",
+              "uwp-apps",
+              "windows",
+              "windows-10",
+              "windows-11"
+            ]
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
         }
@@ -92,12 +141,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
+            "homepage": "https://t.me/bypassblock",
             "id": 378635800,
             "language": "Batchfile",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T18:37:25Z",
+            "open_issues": 13,
             "owner": "awesome-windows11",
             "repo": "windows11",
-            "stars": 3537
+            "stars": 3537,
+            "topics": [
+              "flighthub",
+              "powershell",
+              "scripts",
+              "tweaks",
+              "windows",
+              "windows-10",
+              "windows-11",
+              "windows10",
+              "windows11"
+            ]
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
         }
@@ -114,12 +178,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
+            "homepage": "https://t.me/bypassblock",
             "id": 378635800,
             "language": "Batchfile",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T18:37:25Z",
+            "open_issues": 13,
             "owner": "awesome-windows11",
             "repo": "windows11",
-            "stars": 3537
+            "stars": 3537,
+            "topics": [
+              "flighthub",
+              "powershell",
+              "scripts",
+              "tweaks",
+              "windows",
+              "windows-10",
+              "windows-11",
+              "windows10",
+              "windows11"
+            ]
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
         }
@@ -128,15 +207,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:14:37.624Z",
+    "last_updated": "2026-08-29T04:20:12.178Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
+      "homepage": "https://t.me/bypassblock",
       "id": 378635800,
       "language": "Batchfile",
+      "license": "GPL-3.0",
       "last_commit": "2026-08-26T18:37:25Z",
+      "open_issues": 13,
       "owner": "awesome-windows11",
       "repo": "windows11",
-      "stars": 3537
+      "stars": 3537,
+      "topics": [
+        "flighthub",
+        "powershell",
+        "scripts",
+        "tweaks",
+        "windows",
+        "windows-10",
+        "windows-11",
+        "windows10",
+        "windows11"
+      ]
     },
     "original_repository_sha": "28aa8eee9f7ff8ef6c9f67b32046ac3411bbc137",
     "enhanced_repository": "enhansome/enhansome-windows11",
