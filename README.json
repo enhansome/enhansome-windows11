@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "InfosecMatter",
             "repo": "Minimalistic-offensive-security-tools",
-            "stars": 599,
+            "stars": 600,
             "topics": [
               "active-directory",
               "brute-force",
@@ -150,7 +150,7 @@
             "open_issues": 13,
             "owner": "awesome-windows11",
             "repo": "windows11",
-            "stars": 3544,
+            "stars": 3547,
             "topics": [
               "flighthub",
               "powershell",
@@ -187,7 +187,7 @@
             "open_issues": 13,
             "owner": "awesome-windows11",
             "repo": "windows11",
-            "stars": 3544,
+            "stars": 3547,
             "topics": [
               "flighthub",
               "powershell",
@@ -207,7 +207,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:21:52.920Z",
+    "last_updated": "2026-09-04T16:17:40.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
@@ -219,7 +219,7 @@
       "open_issues": 13,
       "owner": "awesome-windows11",
       "repo": "windows11",
-      "stars": 3544,
+      "stars": 3547,
       "topics": [
         "flighthub",
         "powershell",
