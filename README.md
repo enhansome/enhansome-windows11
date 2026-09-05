@@ -26,7 +26,7 @@ Check system file: <https://winbindex.m417z.com> <br> <img width=20px src="https
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control) <br>
 <https://github.com/swagkarna/Defeat-Defender-V1.2> <br>
-<https://github.com/AndyFul/ConfigureDefender> ⭐ 1,560 | 🐛 18 | 📅 2026-07-16 <br>
+<https://github.com/AndyFul/ConfigureDefender> ⭐ 1,562 | 🐛 18 | 📅 2026-07-16 <br>
 <https://github.com/simeononsecurity/Windows-Defender-Hardening> ⭐ 77 | 🐛 0 | 🌐 PowerShell | 📅 2024-12-22 <br>
 <https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardening> ⭐ 52 | 🐛 0 | 🌐 PowerShell | 📅 2024-07-26
 
@@ -41,12 +41,12 @@ Disabling all windows update services: <https://github.com/WereDev/Wu10Man> ⚠�
 
 ### <h3 align="center">🛠 Tweaks (Win11)</h3>
 
-Custom Context Menu: <https://github.com/ikas-mc/ContextMenuForWindows11> ⭐ 2,873 | 🐛 21 | 🌐 C# | 📅 2026-08-31 <br>
+Custom Context Menu: <https://github.com/ikas-mc/ContextMenuForWindows11> ⭐ 2,874 | 🐛 21 | 🌐 C# | 📅 2026-08-31 <br>
 Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer> ⭐ 1,272 | 🐛 11 | 🌐 C# | 📅 2023-06-27 <br>
-Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 33,791 | 🐛 369 | 🌐 C | 📅 2026-07-06 <br>
-<https://github.com/undergroundwires/privacy.sexy> ⭐ 6,000 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13 <br>
-<https://github.com/mikeroyal/Windows-11-Guide> ⭐ 1,783 | 🐛 12 | 🌐 C# | 📅 2025-06-27 <br>
-<https://github.com/xanderfrangos/twinkle-tray> ⭐ 8,975 | 🐛 605 | 🌐 JavaScript | 📅 2026-08-19 <br>
+Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 33,799 | 🐛 369 | 🌐 C | 📅 2026-07-06 <br>
+<https://github.com/undergroundwires/privacy.sexy> ⭐ 6,004 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13 <br>
+<https://github.com/mikeroyal/Windows-11-Guide> ⭐ 1,782 | 🐛 12 | 🌐 C# | 📅 2025-06-27 <br>
+<https://github.com/xanderfrangos/twinkle-tray> ⭐ 8,978 | 🐛 605 | 🌐 JavaScript | 📅 2026-08-19 <br>
 <https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/> <br>
 Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/builtbybel/ThisIsWin11> ⚠️ Archived <br>
@@ -59,8 +59,8 @@ Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/r33int/Windows10-Postinstall> ⭐ 206 | 🐛 0 | 🌐 PowerShell | 📅 2026-05-13 <br>
 <https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat> ⭐ 1,388 | 🐛 0 | 🌐 PowerShell | 📅 2025-04-25 <br>
 <https://github.com/simeononsecurity/Windows-Optimize-Debloat> ⭐ 297 | 🐛 0 | 🌐 PowerShell | 📅 2024-12-21 <br>
-<https://github.com/ChrisTitusTech/winutil> ⭐ 61,882 | 🐛 18 | 🌐 PowerShell | 📅 2026-09-04 <br>
-<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,692 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-03
+<https://github.com/ChrisTitusTech/winutil> ⭐ 61,935 | 🐛 21 | 🌐 PowerShell | 📅 2026-09-04 <br>
+<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,695 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-05
 
 ### <h2 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h2>
 
@@ -226,7 +226,7 @@ pause
 
 <details><summary><b>⏸  Disable / enable Input Switch</b></summary>
 
-Download: <https://github.com/awesome-windows11/windows11/blob/main/archive/InputSwitch.zip> ⭐ 3,547 | 🐛 13 | 🌐 Batchfile | 📅 2026-08-26 <br>
+Download: <https://github.com/awesome-windows11/windows11/blob/main/archive/InputSwitch.zip> ⭐ 3,548 | 🐛 13 | 🌐 Batchfile | 📅 2026-08-26 <br>
 ![image](https://user-images.githubusercontent.com/86190960/149355219-377f3d65-d638-4937-bfa7-69e24332eab3.png)
 
 </details>
@@ -376,7 +376,7 @@ reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Ex
 > ⚠ **DANGEROUS: THE TWEAK WILL BREAK NEW UPDATES AND FEATURE INSTALLATIONS!**
 > **We do not recommend deleting the browser for the correct operation of the system!**
 
-<https://github.com/awesome-windows11/windows11/blob/main/archive/remove_edge.bat> ⭐ 3,547 | 🐛 13 | 🌐 Batchfile | 📅 2026-08-26
+<https://github.com/awesome-windows11/windows11/blob/main/archive/remove_edge.bat> ⭐ 3,548 | 🐛 13 | 🌐 Batchfile | 📅 2026-08-26
 
 ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
 ![image](https://user-images.githubusercontent.com/86190960/149354585-d467a0fe-60db-4a9b-82a6-20ea0f40934e.png)
@@ -731,4 +731,4 @@ reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\St
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
