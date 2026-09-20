@@ -17,8 +17,8 @@ No files or programs, just console and commands!
 ### <h3 align="center"><img width=20px src="https://i.ibb.co/jDhhyDF/mark.png"> Important</h3>
 
 <https://github.com/eksime/VDesk> ⭐ 675 | 🐛 51 | 🌐 C# | 📅 2023-11-17 <br>
-Check system file: <https://winbindex.m417z.com> <br> <img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> NT/SYSTEM console: <https://github.com/gerardog/gsudo> ⭐ 6,055 | 🐛 51 | 🌐 C# | 📅 2026-08-12 <br> <img width=20px src="https://i.ibb.co/1XW0LcH/AppInstaller.png"> AppInstaller & MSIXbundle (WinGet) <https://apps.microsoft.com/store/detail/9NBLGGH4NNS1> <br> <img width=20px src="https://i.ibb.co/X3951pZ/Face.png"> Microsoft Emoji: <https://github.com/microsoft/fluentui-emoji> ⭐ 10,114 | 🐛 110 | 🌐 Python | 📅 2026-08-24 <br>
-<https://github.com/farag2/Utilities> ⭐ 728 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-17
+Check system file: <https://winbindex.m417z.com> <br> <img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> NT/SYSTEM console: <https://github.com/gerardog/gsudo> ⭐ 6,055 | 🐛 51 | 🌐 C# | 📅 2026-08-12 <br> <img width=20px src="https://i.ibb.co/1XW0LcH/AppInstaller.png"> AppInstaller & MSIXbundle (WinGet) <https://apps.microsoft.com/store/detail/9NBLGGH4NNS1> <br> <img width=20px src="https://i.ibb.co/X3951pZ/Face.png"> Microsoft Emoji: <https://github.com/microsoft/fluentui-emoji> ⭐ 10,117 | 🐛 110 | 🌐 Python | 📅 2026-08-24 <br>
+<https://github.com/farag2/Utilities> ⭐ 729 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-17
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) ⭐ 599 | 🐛 0 | 🌐 PowerShell | 📅 2021-10-26
 
@@ -43,10 +43,10 @@ Disabling all windows update services: <https://github.com/WereDev/Wu10Man> ⚠�
 
 Custom Context Menu: <https://github.com/ikas-mc/ContextMenuForWindows11> ⭐ 2,887 | 🐛 22 | 🌐 C# | 📅 2026-09-19 <br>
 Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer> ⭐ 1,275 | 🐛 11 | 🌐 C# | 📅 2023-06-27 <br>
-Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 33,929 | 🐛 372 | 🌐 C | 📅 2026-07-06 <br>
-<https://github.com/undergroundwires/privacy.sexy> ⭐ 6,054 | 🐛 253 | 🌐 TypeScript | 📅 2026-02-13 <br>
+Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 33,935 | 🐛 372 | 🌐 C | 📅 2026-07-06 <br>
+<https://github.com/undergroundwires/privacy.sexy> ⭐ 6,051 | 🐛 253 | 🌐 TypeScript | 📅 2026-02-13 <br>
 <https://github.com/mikeroyal/Windows-11-Guide> ⭐ 1,780 | 🐛 12 | 🌐 C# | 📅 2025-06-27 <br>
-<https://github.com/xanderfrangos/twinkle-tray> ⭐ 9,065 | 🐛 614 | 🌐 JavaScript | 📅 2026-08-19 <br>
+<https://github.com/xanderfrangos/twinkle-tray> ⭐ 9,070 | 🐛 614 | 🌐 JavaScript | 📅 2026-08-19 <br>
 <https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/> <br>
 Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/builtbybel/ThisIsWin11> ⚠️ Archived <br>
@@ -57,10 +57,10 @@ Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/Fs00/Win10BloatRemover> ⭐ 395 | 🐛 1 | 🌐 C# | 📅 2026-01-20 <br>
 <https://github.com/equk/windows> ⭐ 318 | 🐛 0 | 🌐 PowerShell | 📅 2024-11-19 <br>
 <https://github.com/r33int/Windows10-Postinstall> ⭐ 208 | 🐛 0 | 🌐 PowerShell | 📅 2026-05-13 <br>
-<https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat> ⭐ 1,388 | 🐛 0 | 🌐 PowerShell | 📅 2025-04-25 <br>
+<https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat> ⭐ 1,387 | 🐛 0 | 🌐 PowerShell | 📅 2025-04-25 <br>
 <https://github.com/simeononsecurity/Windows-Optimize-Debloat> ⭐ 298 | 🐛 0 | 🌐 PowerShell | 📅 2024-12-21 <br>
-<https://github.com/ChrisTitusTech/winutil> ⭐ 62,866 | 🐛 49 | 🌐 PowerShell | 📅 2026-09-18 <br>
-<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,750 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-12
+<https://github.com/ChrisTitusTech/winutil> ⭐ 62,913 | 🐛 32 | 🌐 PowerShell | 📅 2026-09-19 <br>
+<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,756 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-20
 
 ### <h2 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h2>
 
@@ -731,4 +731,4 @@ reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\St
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
