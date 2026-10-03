@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "HACK: Password Brute Force",
-          "description": null,
+          "description": "InfosecMatter/Minimalistic-offensive-security-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -98,7 +98,7 @@
         {
           "node_type": "item",
           "title": "Digressive/Remove-MS-Store-Apps",
-          "description": null,
+          "description": "Digressive/Remove-MS-Store-Apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -130,84 +130,10 @@
         }
       ],
       "title": "Microsoft Store Apps"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Download: https://github.com/awesome-windows11/windows11/blob/main/archive/InputSwitch.zip",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
-            "homepage": "https://t.me/bypassblock",
-            "id": 378635800,
-            "language": "Batchfile",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-26T18:37:25Z",
-            "open_issues": 13,
-            "owner": "awesome-windows11",
-            "repo": "windows11",
-            "stars": 3579,
-            "topics": [
-              "flighthub",
-              "powershell",
-              "scripts",
-              "tweaks",
-              "windows",
-              "windows-10",
-              "windows-11",
-              "windows10",
-              "windows11"
-            ]
-          },
-          "first_seen": "2026-08-28T22:14:37.624Z"
-        }
-      ],
-      "title": "⏸ Disable / enable Input Switch"
-    },
-    {
-      "description": "⚠ This tweak simply disables the ability to create an Edge profile date, which is the safest thing to do!\n⚠ This tweak is the most secure and does not break updates\n⚠ DANGEROUS: THE TWEAK WILL BREAK NEW UPDATES AND FEATURE INSTALLATIONS! We do not recommend deleting the browser for the correct operation of the system!",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-windows11/windows11",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
-            "homepage": "https://t.me/bypassblock",
-            "id": 378635800,
-            "language": "Batchfile",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-26T18:37:25Z",
-            "open_issues": 13,
-            "owner": "awesome-windows11",
-            "repo": "windows11",
-            "stars": 3579,
-            "topics": [
-              "flighthub",
-              "powershell",
-              "scripts",
-              "tweaks",
-              "windows",
-              "windows-10",
-              "windows-11",
-              "windows10",
-              "windows11"
-            ]
-          },
-          "first_seen": "2026-08-28T22:14:37.624Z"
-        }
-      ],
-      "title": "Remove / Disable Microsoft Edge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:50:01.052Z",
+    "last_updated": "2026-10-03T05:15:48.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
@@ -219,7 +145,7 @@
       "open_issues": 13,
       "owner": "awesome-windows11",
       "repo": "windows11",
-      "stars": 3579,
+      "stars": 3577,
       "topics": [
         "flighthub",
         "powershell",
