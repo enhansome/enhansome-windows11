@@ -26,13 +26,13 @@ Check system file: <https://winbindex.m417z.com> <br> <img width=20px src="https
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control) <br>
 <https://github.com/swagkarna/Defeat-Defender-V1.2> <br>
-<https://github.com/AndyFul/ConfigureDefender> ⭐ 1,575 | 🐛 18 | 📅 2026-07-16 <br>
+<https://github.com/AndyFul/ConfigureDefender> ⭐ 1,576 | 🐛 18 | 📅 2026-07-16 <br>
 <https://github.com/simeononsecurity/Windows-Defender-Hardening> ⭐ 78 | 🐛 0 | 🌐 PowerShell | 📅 2024-12-22 <br>
 <https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardening> ⭐ 51 | 🐛 0 | 🌐 PowerShell | 📅 2024-07-26
 
 ### <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
-<https://github.com/DavidXanatos/wumgr> ⭐ 1,615 | 🐛 82 | 🌐 C# | 📅 2021-05-30 <br>
+<https://github.com/DavidXanatos/wumgr> ⭐ 1,616 | 🐛 82 | 🌐 C# | 📅 2021-05-30 <br>
 Disabling all windows update services: <https://github.com/WereDev/Wu10Man> ⚠️ Archived
 
 ### <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"> Microsoft Store Apps</h3>
@@ -43,10 +43,10 @@ Disabling all windows update services: <https://github.com/WereDev/Wu10Man> ⚠�
 
 Custom Context Menu: <https://github.com/ikas-mc/ContextMenuForWindows11> ⭐ 2,901 | 🐛 22 | 🌐 C# | 📅 2026-09-19 <br>
 Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer> ⭐ 1,273 | 🐛 11 | 🌐 C# | 📅 2023-06-27 <br>
-Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 34,010 | 🐛 375 | 🌐 C | 📅 2026-07-06 <br>
+Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 34,015 | 🐛 375 | 🌐 C | 📅 2026-07-06 <br>
 <https://github.com/undergroundwires/privacy.sexy> ⭐ 6,079 | 🐛 253 | 🌐 TypeScript | 📅 2026-02-13 <br>
-<https://github.com/mikeroyal/Windows-11-Guide> ⭐ 1,783 | 🐛 12 | 🌐 C# | 📅 2025-06-27 <br>
-<https://github.com/xanderfrangos/twinkle-tray> ⭐ 9,122 | 🐛 620 | 🌐 JavaScript | 📅 2026-08-19 <br>
+<https://github.com/mikeroyal/Windows-11-Guide> ⭐ 1,782 | 🐛 12 | 🌐 C# | 📅 2025-06-27 <br>
+<https://github.com/xanderfrangos/twinkle-tray> ⭐ 9,123 | 🐛 620 | 🌐 JavaScript | 📅 2026-10-03 <br>
 <https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/> <br>
 Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/builtbybel/ThisIsWin11> ⚠️ Archived <br>
@@ -59,8 +59,8 @@ Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/r33int/Windows10-Postinstall> ⭐ 208 | 🐛 0 | 🌐 PowerShell | 📅 2026-05-13 <br>
 <https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat> ⭐ 1,387 | 🐛 0 | 🌐 PowerShell | 📅 2025-04-25 <br>
 <https://github.com/simeononsecurity/Windows-Optimize-Debloat> ⭐ 300 | 🐛 0 | 🌐 PowerShell | 📅 2024-12-21 <br>
-<https://github.com/ChrisTitusTech/winutil> ⭐ 63,546 | 🐛 29 | 🌐 PowerShell | 📅 2026-09-30 <br>
-<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,781 | 🐛 0 | 🌐 PowerShell | 📅 2026-10-01
+<https://github.com/ChrisTitusTech/winutil> ⭐ 63,567 | 🐛 27 | 🌐 PowerShell | 📅 2026-09-30 <br>
+<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,782 | 🐛 0 | 🌐 PowerShell | 📅 2026-10-01
 
 ### <h2 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h2>
 
