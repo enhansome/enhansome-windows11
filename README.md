@@ -16,9 +16,9 @@ No files or programs, just console and commands!
 
 ### <h3 align="center"><img width=20px src="https://i.ibb.co/jDhhyDF/mark.png"> Important</h3>
 
-<https://github.com/eksime/VDesk> ⭐ 675 | 🐛 51 | 🌐 C# | 📅 2023-11-17 <br>
-Check system file: <https://winbindex.m417z.com> <br> <img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> NT/SYSTEM console: <https://github.com/gerardog/gsudo> ⭐ 6,064 | 🐛 51 | 🌐 C# | 📅 2026-08-12 <br> <img width=20px src="https://i.ibb.co/1XW0LcH/AppInstaller.png"> AppInstaller & MSIXbundle (WinGet) <https://apps.microsoft.com/store/detail/9NBLGGH4NNS1> <br> <img width=20px src="https://i.ibb.co/X3951pZ/Face.png"> Microsoft Emoji: <https://github.com/microsoft/fluentui-emoji> ⭐ 10,148 | 🐛 110 | 🌐 Python | 📅 2026-08-24 <br>
-<https://github.com/farag2/Utilities> ⭐ 735 | 🐛 0 | 🌐 PowerShell | 📅 2026-10-07
+<https://github.com/eksime/VDesk> ⭐ 676 | 🐛 51 | 🌐 C# | 📅 2023-11-17 <br>
+Check system file: <https://winbindex.m417z.com> <br> <img width=20px src="https://i.ibb.co/M6ZdQqL/terminal.png"> NT/SYSTEM console: <https://github.com/gerardog/gsudo> ⭐ 6,064 | 🐛 51 | 🌐 C# | 📅 2026-08-12 <br> <img width=20px src="https://i.ibb.co/1XW0LcH/AppInstaller.png"> AppInstaller & MSIXbundle (WinGet) <https://apps.microsoft.com/store/detail/9NBLGGH4NNS1> <br> <img width=20px src="https://i.ibb.co/X3951pZ/Face.png"> Microsoft Emoji: <https://github.com/microsoft/fluentui-emoji> ⭐ 10,150 | 🐛 110 | 🌐 Python | 📅 2026-08-24 <br>
+<https://github.com/farag2/Utilities> ⭐ 735 | 🐛 0 | 🌐 PowerShell | 📅 2026-10-09
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools) ⭐ 596 | 🐛 0 | 🌐 PowerShell | 📅 2021-10-26
 
@@ -26,13 +26,13 @@ Check system file: <https://winbindex.m417z.com> <br> <img width=20px src="https
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control) <br>
 <https://github.com/swagkarna/Defeat-Defender-V1.2> <br>
-<https://github.com/AndyFul/ConfigureDefender> ⭐ 1,582 | 🐛 18 | 📅 2026-07-16 <br>
+<https://github.com/AndyFul/ConfigureDefender> ⭐ 1,583 | 🐛 18 | 📅 2026-07-16 <br>
 <https://github.com/simeononsecurity/Windows-Defender-Hardening> ⭐ 78 | 🐛 0 | 🌐 PowerShell | 📅 2026-10-07 <br>
 <https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardening> ⭐ 51 | 🐛 0 | 🌐 PowerShell | 📅 2024-07-26
 
 ### <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
-<https://github.com/DavidXanatos/wumgr> ⭐ 1,616 | 🐛 82 | 🌐 C# | 📅 2021-05-30 <br>
+<https://github.com/DavidXanatos/wumgr> ⭐ 1,617 | 🐛 82 | 🌐 C# | 📅 2021-05-30 <br>
 Disabling all windows update services: <https://github.com/WereDev/Wu10Man> ⚠️ Archived
 
 ### <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"> Microsoft Store Apps</h3>
@@ -42,11 +42,11 @@ Disabling all windows update services: <https://github.com/WereDev/Wu10Man> ⚠�
 ### <h3 align="center">🛠 Tweaks (Win11)</h3>
 
 Custom Context Menu: <https://github.com/ikas-mc/ContextMenuForWindows11> ⭐ 2,911 | 🐛 22 | 🌐 C# | 📅 2026-09-19 <br>
-Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer> ⭐ 1,273 | 🐛 11 | 🌐 C# | 📅 2023-06-27 <br>
-Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 34,048 | 🐛 377 | 🌐 C | 📅 2026-07-06 <br>
-<https://github.com/undergroundwires/privacy.sexy> ⭐ 6,088 | 🐛 252 | 🌐 TypeScript | 📅 2026-02-13 <br>
+Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer> ⭐ 1,274 | 🐛 11 | 🌐 C# | 📅 2023-06-27 <br>
+Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher> ⭐ 34,054 | 🐛 377 | 🌐 C | 📅 2026-07-06 <br>
+<https://github.com/undergroundwires/privacy.sexy> ⭐ 6,091 | 🐛 251 | 🌐 TypeScript | 📅 2026-02-13 <br>
 <https://github.com/mikeroyal/Windows-11-Guide> ⭐ 1,782 | 🐛 12 | 🌐 C# | 📅 2025-06-27 <br>
-<https://github.com/xanderfrangos/twinkle-tray> ⭐ 9,151 | 🐛 620 | 🌐 JavaScript | 📅 2026-10-03 <br>
+<https://github.com/xanderfrangos/twinkle-tray> ⭐ 9,156 | 🐛 621 | 🌐 JavaScript | 📅 2026-10-03 <br>
 <https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/> <br>
 Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/builtbybel/ThisIsWin11> ⚠️ Archived <br>
@@ -57,10 +57,10 @@ Manager context menu: <https://nilesoft.org> <br>
 <https://github.com/Fs00/Win10BloatRemover> ⭐ 396 | 🐛 1 | 🌐 C# | 📅 2026-01-20 <br>
 <https://github.com/equk/windows> ⭐ 318 | 🐛 0 | 🌐 PowerShell | 📅 2024-11-19 <br>
 <https://github.com/r33int/Windows10-Postinstall> ⭐ 208 | 🐛 0 | 🌐 PowerShell | 📅 2026-05-13 <br>
-<https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat> ⭐ 1,389 | 🐛 0 | 🌐 PowerShell | 📅 2025-04-25 <br>
+<https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat> ⭐ 1,390 | 🐛 0 | 🌐 PowerShell | 📅 2025-04-25 <br>
 <https://github.com/simeononsecurity/Windows-Optimize-Debloat> ⭐ 300 | 🐛 0 | 🌐 PowerShell | 📅 2024-12-21 <br>
-<https://github.com/ChrisTitusTech/winutil> ⭐ 63,841 | 🐛 33 | 🌐 PowerShell | 📅 2026-10-07 <br>
-<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,782 | 🐛 0 | 🌐 PowerShell | 📅 2026-10-06
+<https://github.com/ChrisTitusTech/winutil> ⭐ 63,900 | 🐛 39 | 🌐 PowerShell | 📅 2026-10-09 <br>
+<https://github.com/farag2/Sophia-Script-for-Windows> ⭐ 9,785 | 🐛 0 | 🌐 PowerShell | 📅 2026-10-08
 
 ### <h2 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h2>
 
@@ -731,4 +731,4 @@ reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\St
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
