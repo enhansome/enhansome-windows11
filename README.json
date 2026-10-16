@@ -133,7 +133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T16:53:31.677Z",
+    "last_updated": "2026-10-16T16:33:12.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
@@ -145,7 +145,7 @@
       "open_issues": 13,
       "owner": "awesome-windows11",
       "repo": "windows11",
-      "stars": 3588,
+      "stars": 3589,
       "topics": [
         "flighthub",
         "powershell",
