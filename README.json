@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "InfosecMatter",
             "repo": "Minimalistic-offensive-security-tools",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "active-directory",
               "brute-force",
@@ -133,7 +133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:33:12.969Z",
+    "last_updated": "2026-10-17T15:27:53.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
