@@ -84,7 +84,7 @@
             "open_issues": 82,
             "owner": "DavidXanatos",
             "repo": "wumgr",
-            "stars": 1616,
+            "stars": 1615,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
@@ -133,7 +133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:13:52.576Z",
+    "last_updated": "2026-11-01T17:54:32.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
@@ -145,7 +145,7 @@
       "open_issues": 13,
       "owner": "awesome-windows11",
       "repo": "windows11",
-      "stars": 3598,
+      "stars": 3601,
       "topics": [
         "flighthub",
         "powershell",
