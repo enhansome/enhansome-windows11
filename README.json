@@ -19,7 +19,7 @@
             "open_issues": 51,
             "owner": "eksime",
             "repo": "VDesk",
-            "stars": 678,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
@@ -133,7 +133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:52:40.290Z",
+    "last_updated": "2026-11-06T19:18:01.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
@@ -145,7 +145,7 @@
       "open_issues": 13,
       "owner": "awesome-windows11",
       "repo": "windows11",
-      "stars": 3611,
+      "stars": 3610,
       "topics": [
         "flighthub",
         "powershell",
