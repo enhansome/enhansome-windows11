@@ -19,7 +19,7 @@
             "open_issues": 51,
             "owner": "eksime",
             "repo": "VDesk",
-            "stars": 678,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-28T22:14:37.624Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "InfosecMatter",
             "repo": "Minimalistic-offensive-security-tools",
-            "stars": 599,
+            "stars": 600,
             "topics": [
               "active-directory",
               "brute-force",
@@ -133,7 +133,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T19:39:52.092Z",
+    "last_updated": "2026-11-11T19:31:35.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌎 Windows 11 Settings, Tweaks, Scripts",
@@ -145,7 +145,7 @@
       "open_issues": 13,
       "owner": "awesome-windows11",
       "repo": "windows11",
-      "stars": 3614,
+      "stars": 3615,
       "topics": [
         "flighthub",
         "powershell",
